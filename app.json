@@ -8,32 +8,32 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/Adreinbrody/SRCB_for-cpy1",
+    "repository": "https://github.com/Kolambas210/SRCB_for-cpy1",
     "website": "",
-    "success_url": "https://t.me/srcb_here",
+    "success_url": "https://t.me/forwarder638",
     "env": {
         "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "5cd7c8dbc4331f9db28e83c25b8fe12e",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "26948104",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "7811193379:AAGx7GVh-grBv_wjTzx2C8CQSqxvrTNabbk",
             "value": ""
         },
         "AUTH": {
-            "description": "owner user id. who will get access to do batch command",
+            "description": "5971647539",
             "value": ""
         },
         "SESSION": {
-            "description": "pyrogram string session. Get from- https://replit.com/@SpEcHiDe/GenerateStringSession",
+            "description": "BQGbMggAZXnJkIAJpRnV4wL1mAv-EFhtaOkgU7mB_KleuUF_kH2qcqTjAeDep6U_361WmrC2rqykhZT9lBbdJLpSmZMb3qts5LhyebJ6MCT-sDk1gUAnWiD-csO5VvTCaqL0Edf9AE7TSpZ60VCk192QGiMw1GMiLsEcO1DMyOfzVluEmgpeVwBlhZb101V7wjdJiBgWdKvc5uNj1TnjkbPAF8KCdDTMwjEhk3bS8exU8Vv_FDYXqcCow4vTg63fr_PjNlYEDXZGnqpQq8bnww2ipp6JIll25iej6to9doy1xoDMnW-R3hNuMfF397MIo94taWrqREaIkAzxhSYaTPpIcbs0mgAAAAFj8BwzAA",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Public Channel username without using '@' to forcesub.",
+            "description": "forwarder638",
             "value": ""
         }
     },
